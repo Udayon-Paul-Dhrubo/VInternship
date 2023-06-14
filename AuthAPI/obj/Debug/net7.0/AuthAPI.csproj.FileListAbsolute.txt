@@ -1,0 +1,103 @@
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\appsettings.json
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\emba-du\FundManagement\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+E:\emba-du\FundManagement\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\appsettings.Development.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\appsettings.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.exe
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.deps.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.runtimeconfig.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\AuthAPI.pdb
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Oracle.ManagedDataAccess.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.AssemblyReference.cache
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfoInputs.cache
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.AssemblyInfo.cs
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CoreCompileInputs.cache
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.AuthAPI.props
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuthAPI.props
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuthAPI.props
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.pack.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.build.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\staticwebassets.development.json
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\scopedcss\bundle\AuthAPI.styles.css
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.csproj.CopyComplete
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\refint\AuthAPI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.pdb
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\AuthAPI.genruntimeconfig.cache
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\obj\Debug\net7.0\ref\AuthAPI.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.DirectoryServices.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.DirectoryServices.Protocols.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\OneDrive - BUET\Documents\Virtual Internship\FundManagement\AuthAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

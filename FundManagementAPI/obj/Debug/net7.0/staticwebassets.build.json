@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kOBTrugFZxP6TWhZK8NKT18h0Mra80DBvxJxFmArBNg=",
+  "Source": "FundManagementAPI",
+  "BasePath": "_content/FundManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
